@@ -1,4 +1,4 @@
-# Persistent and Asynchronous Multicast System 
+# Persistent and Asynchronous Multicast System | Apr 2019
 We implemented a system for supporting persistent asynchronous multicast on top of TCP. This is based on a coordinator-participant paradigm that includes both the multicast coordinator and the participants.
 
 ## Description
