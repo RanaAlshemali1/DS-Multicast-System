@@ -1,0 +1,3 @@
+103
+4002-message-log.txt
+localhost 7000
